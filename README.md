@@ -80,5 +80,3 @@ Feel free to use and modify it for learning and educational purposes!
 [GitHub Profile](https://github.com/Nourhanne304)
 
 
-
-_Add a screenshot of your app GUI here if you want!_
